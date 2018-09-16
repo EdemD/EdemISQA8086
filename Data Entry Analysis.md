@@ -1,1 +1,4 @@
-# Data Entry Analysis
+# Data Entry Analysis
+| Index | Date     | Collection station name | Collection/Body of water name | Collection station ID | Depth in meters | Temperature in Celsuis | Density of species per liter | ColonySize(mm) | Species | Chorophyll A | Time of day (AM-NOON-PM) | Daily ColonySize Average | Max Depth in meters | Max Secchi in meters |
+|-------|----------|-------------------------|-------------------------------|-----------------------|-----------------|------------------------|------------------------------|----------------|---------|--------------|--------------------------|--------------------------|---------------------|----------------------|
+| 1     | 6/5/2010 | Station A               | Lake Erie                     | 000122                | 0.5             | 14.1                   | 45                           | 2.12           | cuni    | 3.1          | AM                       | 2.345                    | 72                  | 14                   |
