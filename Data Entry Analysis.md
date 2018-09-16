@@ -13,7 +13,7 @@
 
 ### 2: Suggest a new system for organization. Create a table in your Markdown document showing a potential template for later years of data collection that would address the problems you identified in #1. 
 
-
+> Based on findings and additional readings and to make future recordings more query friendly I propose the table format below. Of course a well written data definition is needed to go along with this table.
 
 # Data Entry Analysis
 | Index | Date     | Collection station name | Collection/Body of water name | Collection station ID | Depth in meters | Temperature in Celsuis | Density of species per liter | ColonySize(mm) | Species | Chorophyll A | Time of day (AM-NOON-PM) | Daily ColonySize Average | Max Depth in meters | Max Secchi in meters |
